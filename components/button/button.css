@@ -1,0 +1,17 @@
+.ds-c-button{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 8px 12px;
+    color: var(--ds-theme-button-brand-content);
+    background: var(--ds-theme-button-brand-background);
+    border: 1px solid var(--ds-theme-button-brand-border);
+    border-radius: 4px;
+}
+
+.ds-default-button{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 8px 12px;
+    color: var(--ds-theme-button-default-content);
+    background: var(--ds-theme-button-default-background);
+    border: 1px solid var(--ds-theme-button-default-border);
+    border-radius: 4px;
+}

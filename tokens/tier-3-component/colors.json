@@ -1,0 +1,26 @@
+{
+  "button": {
+      "brand":{
+      "content":{
+        "value": "{color.content.brand}"
+      },
+      "background":{
+        "value": "{color.background.brand}"
+      },
+      "border": {
+        "value": "{color.border.brand}"
+    }
+  },
+  "default":{
+      "content":{
+        "value": "{color.content.default}"
+      },
+      "background":{
+        "value": "{color.background.default}"
+      },
+      "border": {
+        "value": "{color.border.default}"
+    }
+  }
+}
+}
